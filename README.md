@@ -1,4 +1,4 @@
-# Elasticsearch Box
+# Elasticsearch Box [![wercker status](https://app.wercker.com/status/4d635e9cd1c1689ce9d53296b148c7e2/s "wercker status")](https://app.wercker.com/project/bykey/4d635e9cd1c1689ce9d53296b148c7e2)
 A [wercker](http://wercker.com/) box for elasticsearch with kuromoji and icu plugin.
 
 ### Installed
